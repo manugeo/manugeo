@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @manugeo
 - 👀 I’m interested in web and mobile development.
-- 🌱 I’m currently learning to build restful back-ends with Express.js
+- 🌱 I’ve recently learned to build restful backends with Express.js.
+- 🏗️ Now, I'm working on two of my personal projects on the MERN stack.
 - 💞️ I’m looking to collaborate on React & Node.js projects.
 - 📫 You can always reach me at my email manugeo13@gmail.com
 
